@@ -21,3 +21,15 @@
 - :relaxed:
 - :astonished:
 - :sunglasses:
+
+### Keyboard Shortcuts
+Shortcuts I frequently use:
+- Ctrl C (copy)
+- Ctrl V (paste)
+- Alt + Tab (switch between apps)
+
+Shortcuts I would like to start using:
+- Ctrl X (cut)
+- Ctrl Z (undo)
+- Alt + F (file menu in a program)
+
