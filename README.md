@@ -17,10 +17,10 @@
 
 ### Experiments
 - :sleeping:
-- :grin:
 - :relaxed:
 - :astonished:
 - :sunglasses:
+- :grimacing:
 
 ### Keyboard Shortcuts
 Shortcuts I frequently use:
